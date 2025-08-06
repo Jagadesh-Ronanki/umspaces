@@ -1,3 +1,6 @@
 [submodule "services/website-service"]
 	path = services/website-service
 	url = https://github.com/Jagadesh-Ronanki/umspaces-website-service.git
+[submodule "services/android-service"]
+	path = services/android-service
+	url = https://github.com/Jagadesh-Ronanki/umspaces-android-service.git
